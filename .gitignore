@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.virtual_documents/
+*.pkl
+*.pt
+artifacts/
+data/
+Segmentación_y_Detecccion_Full/
+Segmentación_y_detección/
